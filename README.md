@@ -134,7 +134,11 @@ The dataset is based on Netflix content listings, which includes:
 
       Platform Optimization:
         - Balance between movies and TV shows based on user demand and trends.
-  
+
+# Dashboard Preview: 
+
+link: https://github.com/rishirajpatidar5/Netflix_data_visualization_dashboard/blob/main/Netflix_data_visualisation_dashboard.png
+
 # Conclusion
 
 This dashboard provides a powerful and interactive way to explore Netflix’s content ecosystem. It transforms raw data into meaningful insights that can support strategic decisions in content production, regional expansion, and audience engagement.
