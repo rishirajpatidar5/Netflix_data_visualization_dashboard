@@ -1,13 +1,13 @@
-Netflix Data Visualization Dashboard
-1. Project Title / Headline: Netflix Data Visualization Dashboard
+## Netflix Data Visualization Dashboard
+## 1. Project Title / Headline: Netflix Data Visualization Dashboard
 
 An interactive analytics dashboard designed to explore Netflix’s global content library—focusing on content distribution, genre trends, ratings, and country-wise insights.
 
-2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 The Netflix Data Visualization Dashboard is a Power BI report that provides a comprehensive overview of Netflix content across different countries, genres, and ratings. It helps users understand content growth trends, distribution patterns, and audience targeting strategies.
 
-3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:
     • Data Modeling – Relationships established between datasets such as content, genre, and country.
     • File Formats – .pbix / .png for development and presentation.
 
-4. Data Source: Kaggle
+## 4. Data Source: Kaggle
 
 The dataset is based on Netflix content listings, which includes:
 
@@ -35,7 +35,7 @@ The dataset is based on Netflix content listings, which includes:
     => Ratings Table – Viewer classification ratings
 
 
-5. Features / Highlights
+## 5. Features / Highlights
    
 • Business Problem
 
@@ -120,21 +120,21 @@ The dataset is based on Netflix content listings, which includes:
       
 • Business Impact & Insights
 
-  Content Strategy:
-    - Netflix can identify which genres are most popular and invest accordingly.
+      Content Strategy:
+        - Netflix can identify which genres are most popular and invest accordingly.
 
-  Regional Insights:
-    - Understand which countries contribute the most content and expand production in high-performing regions.
+      Regional Insights:
+        - Understand which countries contribute the most content and expand production in high-performing regions.
 
-  Audience Targeting:
-    - Analyze ratings to tailor content for different age groups and preferences.
+      Audience Targeting:
+        - Analyze ratings to tailor content for different age groups and preferences.
 
-  Growth Analysis:
-    - Track how content has scaled over time to evaluate platform expansion.
+      Growth Analysis:
+        - Track how content has scaled over time to evaluate platform expansion.
 
-  Platform Optimization:
-    - Balance between movies and TV shows based on user demand and trends.
+      Platform Optimization:
+        - Balance between movies and TV shows based on user demand and trends.
   
-📌 Conclusion
+# Conclusion
 
 This dashboard provides a powerful and interactive way to explore Netflix’s content ecosystem. It transforms raw data into meaningful insights that can support strategic decisions in content production, regional expansion, and audience engagement.
